@@ -1,4 +1,4 @@
-## About me
+# About me
 
 I am Javier Saiz and my background is on Linguistics (BA in Modern Languages and Translation, UAH, 2021) and Computer Science (MA in Natural Language Analysis and Processing, UPV-EHU, 2023). 
 
